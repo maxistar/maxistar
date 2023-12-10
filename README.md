@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxistar
 - 👀 I’m interested in Blockchain, IoT, EmbeddedSystems, 3DPrinting, AI, NLP, VoIP
-- 🌱 I’m currently learning all the things above
+- 🌱 I run my blog on [maxistar.ru](https://maxistar.ru)
 - 📫 How to reach me mail at maxistar.ru
 
 <!---
